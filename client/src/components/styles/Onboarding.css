@@ -1,0 +1,147 @@
+.wrapping {
+ 
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100%;
+
+ 
+}
+
+.f{
+    flex:1
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 255, 0);
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    margin-top: 80px;
+    height: 500px;
+    padding: 20px;
+}
+.form2 {
+    flex: 2.4;
+    background-color: rgba(102, 102, 255, 0.626);
+    border: 1px solid rgba(0, 0, 0, 0);
+    padding: 30px 75px;
+}
+
+.innerNav{
+    cursor: pointer;
+    border: 1px rgba(0, 0, 0, 0.553) solid;
+    margin: 0px;
+    padding: 10px;
+    padding-left: 11px;
+ 
+}
+.innerNav1{
+    cursor: pointer;
+    border: 1px rgba(0, 0, 0, 0.553) solid;
+    margin: 0px;
+    padding: 10px;
+    padding-left: 11px;
+    border-bottom: 3px rgba(0, 0, 0, 0.553)solid;
+ 
+}
+
+
+.picwrap{
+    width: 400px;
+  
+}
+
+
+
+.inputOnboard {
+    padding: 12px;
+}
+
+.onboardLabel {
+    font-size: 18px;
+    color:rgb(0, 0, 0)
+}
+
+.onboardLabel1 {
+    font-size: 18px;
+    color:rgb(0, 0, 0);
+    margin-top: 10px;
+}
+
+.inputWrap {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    width: 600px;
+}
+
+.no{
+    margin-left: 5px;
+}
+
+.yn{
+    margin-bottom: 15px;
+}
+
+.label{
+    font-size: 18px;
+    color:rgb(0, 0, 0);
+    font-weight: 600;
+}
+.bs {
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+}
+
+
+.radioLabel {
+    font-weight: 600;
+    font-size: larger;
+}
+.radio {
+    margin: 15px 5px 0px 15px;
+}
+
+.authRoute {
+    color: rgb(44, 36, 255);
+    margin-top: 10px;
+}
+
+.radioWrap{
+    margin-top: 15px;
+
+    font-size: 18px;
+   margin-bottom: 0px;
+    width: 450px;
+}
+
+.radioz {
+    padding: 20px;
+    width: 20px;
+    height: 20px;
+
+   
+}
+
+.buttonz {
+    max-width: 80px;
+    min-width: 80px;
+    width: 80px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.radioarea {
+    width: 100%;
+    resize: none;
+    height: 200px;
+}
+
+.Submiter {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
